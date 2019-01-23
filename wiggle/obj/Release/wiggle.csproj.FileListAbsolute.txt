@@ -1,0 +1,6 @@
+C:\Users\PieBom\source\repos\wiggle\wiggle\bin\Release\wiggle.exe.config
+C:\Users\PieBom\source\repos\wiggle\wiggle\bin\Release\wiggle.exe
+C:\Users\PieBom\source\repos\wiggle\wiggle\bin\Release\wiggle.pdb
+C:\Users\PieBom\source\repos\wiggle\wiggle\obj\Release\wiggle.csproj.CoreCompileInputs.cache
+C:\Users\PieBom\source\repos\wiggle\wiggle\obj\Release\wiggle.exe
+C:\Users\PieBom\source\repos\wiggle\wiggle\obj\Release\wiggle.pdb

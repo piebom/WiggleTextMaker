@@ -1,0 +1,7 @@
+C:\Users\PieBom\source\repos\wiggle\wiggle\bin\Debug\wiggle.exe.config
+C:\Users\PieBom\source\repos\wiggle\wiggle\bin\Debug\wiggle.exe
+C:\Users\PieBom\source\repos\wiggle\wiggle\bin\Debug\wiggle.pdb
+C:\Users\PieBom\source\repos\wiggle\wiggle\obj\Debug\wiggle.csprojAssemblyReference.cache
+C:\Users\PieBom\source\repos\wiggle\wiggle\obj\Debug\wiggle.csproj.CoreCompileInputs.cache
+C:\Users\PieBom\source\repos\wiggle\wiggle\obj\Debug\wiggle.exe
+C:\Users\PieBom\source\repos\wiggle\wiggle\obj\Debug\wiggle.pdb
